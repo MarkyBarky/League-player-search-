@@ -1,5 +1,14 @@
 # League-player-search-
 
+searched for NA legend Peter Yiliang Peng aka Doublelift
+![PLAYERSEARCH](doubleliftProfile.PNG)
+
+searched a summoner who does not exist
+![NOPLAYER](unknownSummoner.PNG)
+
+
+
+
 A very simple league of legends player search which calls the riot games api to return a player's level and icon.
 Used to do msa front end project.
 
