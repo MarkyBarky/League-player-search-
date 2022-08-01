@@ -9,7 +9,7 @@ searched a summoner who does not exist
 
 
 
-A very simple league of legends player search which calls the riot games api to return a player's level and icon.
+A very simple league of legends player search which calls the riot games api to return a player's level and icon using player name.
 Used to do msa front end project.
 
 Search for your favourite pro players in the North American scene or ex-pros such as Doublelift.
