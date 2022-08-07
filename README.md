@@ -14,14 +14,14 @@ Used to do msa front end project.
 
 Search for your favourite pro players in the North American scene or ex-pros such as Doublelift.
 
-STEPS
+**STEPS**
 1. cd leaguesearch in the terminal
 2. npm install 
 3. npm start 
 4. search any North American league account
 
 
-MSA Requirements:
+**MSA Requirements:**
 1. Create a new typescript and react web app [DONE]
  
 2. Connect this application to a different 3rd party RESTful Web API [DONE]
