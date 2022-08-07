@@ -15,10 +15,10 @@ Used to do msa front end project.
 Search for your favourite pro players in the North American scene or ex-pros such as Doublelift.
 
 STEPS
-1: cd leaguesearch in the terminal
-2: npm install 
-3: npm start 
-4: search any North American league account
+1. cd leaguesearch in the terminal
+2. npm install 
+3. npm start 
+4. search any North American league account
 
 
 MSA Requirements:
